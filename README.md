@@ -15,6 +15,7 @@ With the help radar sensing the nanobot will be able to pinpoint the location of
 Regarding the bluetooth technology used an app will be utilised to consolidate the data from the plethora of sensors, which will be then used to understand whether the gene has been deployed or not and will also check whether the person has HIV or not. It will also be used to control the motors
 ## What's Next?
 ![Image of our app.](https://i.imghippo.com/files/xIdKV1714578211.jpg)
+<br>
 We want to educate the people on the measures that can be taken to successfully prevent HIV from ruining the lives of you and your loved ones. to do so, we have designed an ingenious app that gamifies the entire experience of learning about HIV making it suitable for all age groups.
 <br>
 What have we done for this?!?!?! 
